@@ -3,6 +3,8 @@ Olá, Seja Bem-Vindo(a)!  👋
 Meu nome é Adriana Pecorelli!
 Estudante de Ciências da Computação, atualmente no 4º período, e graduada em Administração. 
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-pecorelli/)](https://www.linkedin.com/in/adriana-pecorelli/) 
+
 
 
 <!--
