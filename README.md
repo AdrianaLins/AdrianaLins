@@ -1,7 +1,8 @@
 Olá, Seja Bem-Vindo(a)!  👋
 
 Meu nome é Adriana Pecorelli!
-Estudante de Ciências da Computação, atualmente no 4º período, e graduada em Administração de Empresas. 
+
+Estudante de Ciências da Computação, atualmente no 4º período; e graduada em Administração de Empresas. 
 
 Estou em transição de carreira e atualmente tenho como objetivo atuar na área de Tecnologia da Informação, com o propósito de seguir uma nova carreira e trajetória profissional.
 
@@ -11,7 +12,7 @@ Encontre-me aqui também! 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-pecorelli/)](https://www.linkedin.com/in/adriana-pecorelli/) 
 
-Linguagens e ferramentas que tenho conhecimento (mas, sempre disposta a aprender coisas novas 😄!) 
+Linguagens e ferramentas que tenho conhecimento (lembrando que sempre estou disposta para aprender novas tecnologias 😄!) 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
