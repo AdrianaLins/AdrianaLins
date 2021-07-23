@@ -1,6 +1,7 @@
 Olá, Seja Bem-Vindo(a)!  👋
 
-Meu nome é Adriana Lins, formada em Administração e atualmente estou cursando o 4° período de Ciências da Computação. 
+Meu nome é Adriana Pecorelli!
+Estudante de Ciências da Computação, atualmente no 4º período, e graduada em Administração. 
 
 
 
