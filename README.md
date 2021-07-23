@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá, Seja Bem-Vindo(a)!  👋
+
+Meu nome é Adriana Lins, formada em Administração e atualmente estou cursando o 4° período de Ciências da Computação. 
+
+https://www.linkedin.com/in/adriana-pecorelli/
+
 
 <!--
 **AdrianaLins/AdrianaLins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
