@@ -8,6 +8,7 @@ Estou em transição de carreira e atualmente tenho como objetivo atuar na área
 Autodidata, curiosa e procurando sempre aprender coisas novas. Otimista e entusiasmada com relação ao novo futuro profissional. Fácil adaptação e animada com o novo desafio: entrar no mundo da tecnologia.
 
 Encontre-me aqui também! 👇
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-pecorelli/)](https://www.linkedin.com/in/adriana-pecorelli/) 
 
 Linguagens e ferramentas que tenho conhecimento (mas, sempre disposta a aprender coisas novas 😄!) 
