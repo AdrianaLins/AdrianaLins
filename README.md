@@ -18,7 +18,7 @@ Linguagens e ferramentas que tenho conhecimento (lembrando que sempre estou disp
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-239120?style=for-the-badge&logo=JPA&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-239120?style=for-the-badge&logo=jpa&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-ED8B00?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-6DB33F?style=for-the-badge&logo=eclipse&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostegreSQL-1572B6?style=for-the-badge&logo=postgreSQL&logoColor=white)
