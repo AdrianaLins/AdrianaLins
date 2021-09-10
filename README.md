@@ -11,14 +11,6 @@ Encontre-me aqui também! 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-pecorelli/)](https://www.linkedin.com/in/adriana-pecorelli/) 
 
-Linguagens e ferramentas que tenho conhecimento (lembrando que sempre estou disposta para aprender novas tecnologias 😄!) 
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-239120?style=for-the-badge&logo=jpa&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-ED8B00?style=for-the-badge&logo=Elasticsearch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostegreSQL-1572B6?style=for-the-badge&logo=postgreSQL&logoColor=white)
 
 
 
