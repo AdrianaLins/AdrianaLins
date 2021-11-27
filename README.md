@@ -2,7 +2,7 @@ Olá, Seja Bem-Vindo(a)! 👋
 
 Meu nome é Adriana Pecorelli!
 
-- 👩‍💻 🖥 Estudante de Ciências da Computação, atualmente no 4º período
+- 👩‍💻 🖥 Estudante de Ciências da Computação, atualmente no 4º período e trainee em desenvolvimento Backend
 - 👩‍🎓🎓 Graduada em Administração de Empresas 
 - 🚀😃 Estou em transição de carreira e atualmente tenho como objetivo atuar na área de Tecnologia da Informação, com o propósito de seguir uma nova carreira e trajetória profissional.
 - 🙋‍♀️😄 Autodidata, curiosa e procurando sempre aprender coisas novas. Otimista e entusiasmada com relação ao novo futuro profissional. Fácil adaptação e animada com o novo desafio: entrar no mundo da tecnologia.
